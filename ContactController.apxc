@@ -12,4 +12,5 @@ public with sharing class ContactController {
 		//Add isAccessible() check
 		return primaryContacts;
 	}
-}
+}]
+mani
